@@ -16,5 +16,5 @@ After visualizing the data, differences between the chart of the news and chart 
 Visualization tells us much more information quickly than text in addition to permanent. It is an easy way to explain the long texts, numbers, correlations. But like this example, sometimes it can be used for misleading the public.
 
 ## Used Libraries
-- The data was scraped (collected) from tcmb.gov.tr with Python BeautifulSoup library.
-- Visualizing the result by Python Matplotlib library.
+- The data was scraped (collected) from tcmb.gov.tr with Python _BeautifulSoup_ library.
+- Visualizing the result by Python _Matplotlib_ library.
